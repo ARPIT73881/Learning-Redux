@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-   <a href="https://www.youtube.com/playlist?list=PLfEr2kn3s-bqpPUbeTZP6iRXTxTLwNB7F" target="_blank"><img src="https://github.com/user-attachments/assets/30bcbdd2-8a6b-4c54-8574-9a948a674c1f" alt="Main-Cover" border="0"></a>
+   <a href="https://www.youtube.com/playlist?list=PLfEr2kn3s-br2OoBNSR7S5eJ-kcEeUQcG" target="_blank"><img src="https://github.com/user-attachments/assets/68e44fb0-eff6-4c04-9aed-076bdc51123e" alt="Main-Cover" border="0"></a>
   <br />
 
 # Learning Redux
@@ -41,6 +41,6 @@ to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
-## 🫡 Credits
+## <a name="credits">🫡 Credits </a>
 
 This respository was inspired by the work of [Anurag Singh Procodrr](https://github.com/procodrr). Their creativity and innovation motivated me to build my own version.
